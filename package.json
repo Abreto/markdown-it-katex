@@ -22,7 +22,7 @@
     "author": "Abreto Fu",
     "license": "MIT",
     "dependencies": {
-        "katex": "^0.11.1"
+        "katex": "^0.13.10"
     },
     "devDependencies": {
         "markdown-it": "^10.0.0",
